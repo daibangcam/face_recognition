@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb4ac565-d6c3-4dfd-8bcf-d9526a929930" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zEEQpJzPtXgrMp4pQ68ZDTlJwC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Github\face_recognition" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.auto_face_recognition">
+    <configuration name="auto_face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auto_face_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_get_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Github\face_recognition\face_get_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_train_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Github\face_recognition\face_train_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.auto_face_recognition" />
+        <item itemvalue="Python.face_recognition" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.face_train_data" />
+        <item itemvalue="Python.face_get_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4ac565-d6c3-4dfd-8bcf-d9526a929930" name="Default Changelist" comment="" />
+      <created>1633704833876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633704833876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="224" key="FileChooserDialogImpl" timestamp="1633736218118">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state x="580" y="224" key="FileChooserDialogImpl/0.40.1600.860@0.40.1600.860" timestamp="1633736218118" />
+    <state width="1579" height="220" key="GridCell.Tab.0.bottom" timestamp="1633882387246">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1633769143719">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.bottom.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143719" />
+    <state width="1579" height="220" key="GridCell.Tab.0.bottom/0.40.1600.860@0.40.1600.860" timestamp="1633882387246" />
+    <state width="1579" height="220" key="GridCell.Tab.0.center" timestamp="1633882387246">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1633769143719">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.center.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143719" />
+    <state width="1579" height="220" key="GridCell.Tab.0.center/0.40.1600.860@0.40.1600.860" timestamp="1633882387246" />
+    <state width="1579" height="220" key="GridCell.Tab.0.left" timestamp="1633882387246">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1633769143718">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.left.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143718" />
+    <state width="1579" height="220" key="GridCell.Tab.0.left/0.40.1600.860@0.40.1600.860" timestamp="1633882387246" />
+    <state width="1579" height="220" key="GridCell.Tab.0.right" timestamp="1633882387246">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1633769143719">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="776" height="223" key="GridCell.Tab.0.right.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143719" />
+    <state width="1579" height="220" key="GridCell.Tab.0.right/0.40.1600.860@0.40.1600.860" timestamp="1633882387246" />
+    <state x="301" y="111" key="SettingsEditor" timestamp="1633858161455">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state x="301" y="111" key="SettingsEditor/0.40.1600.860@0.40.1600.860" timestamp="1633858161455" />
+    <state x="463" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1633860469234">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state x="463" y="220" width="672" height="678" key="search.everywhere.popup/0.40.1600.860@0.40.1600.860" timestamp="1633860469234" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/auto_face_recognition.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
