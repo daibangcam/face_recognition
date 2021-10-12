@@ -41,7 +41,7 @@
       <recent name="C:\Github\face_recognition" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train">
+  <component name="RunManager" selected="Python.face_recognition (1)">
     <configuration name="auto_face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="face_recognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="face_get_datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="face_recognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LBPH" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_recognition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LBPH/face_get_datasets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_train_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="face_recognition (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="face_recognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LBPH" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Github\face_recognition\face_train_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LBPH/face_recognition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="face_train_datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="face_recognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LBPH" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LBPH/face_train_datasets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.face_recognition (1)" />
+        <item itemvalue="Python.face_train_datasets" />
+        <item itemvalue="Python.face_get_datasets" />
         <item itemvalue="Python.train" />
         <item itemvalue="Python.auto_face_recognition" />
-        <item itemvalue="Python.face_recognition" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.face_train_data" />
       </list>
     </recent_temporary>
   </component>
@@ -179,38 +179,38 @@
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state x="580" y="224" key="FileChooserDialogImpl/0.40.1600.860@0.40.1600.860" timestamp="1633736218118" />
-    <state width="1579" height="220" key="GridCell.Tab.0.bottom" timestamp="1633995525883">
+    <state width="1579" height="220" key="GridCell.Tab.0.bottom" timestamp="1633997896893">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1633769143719">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.bottom.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143719" />
-    <state width="1579" height="220" key="GridCell.Tab.0.bottom/0.40.1600.860@0.40.1600.860" timestamp="1633995525883" />
-    <state width="1579" height="220" key="GridCell.Tab.0.center" timestamp="1633995525883">
+    <state width="1579" height="220" key="GridCell.Tab.0.bottom/0.40.1600.860@0.40.1600.860" timestamp="1633997896893" />
+    <state width="1579" height="220" key="GridCell.Tab.0.center" timestamp="1633997896893">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1633769143719">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.center.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143719" />
-    <state width="1579" height="220" key="GridCell.Tab.0.center/0.40.1600.860@0.40.1600.860" timestamp="1633995525883" />
-    <state width="1579" height="220" key="GridCell.Tab.0.left" timestamp="1633995525883">
+    <state width="1579" height="220" key="GridCell.Tab.0.center/0.40.1600.860@0.40.1600.860" timestamp="1633997896893" />
+    <state width="1579" height="220" key="GridCell.Tab.0.left" timestamp="1633997896893">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1633769143718">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.left.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143718" />
-    <state width="1579" height="220" key="GridCell.Tab.0.left/0.40.1600.860@0.40.1600.860" timestamp="1633995525883" />
-    <state width="1579" height="220" key="GridCell.Tab.0.right" timestamp="1633995525883">
+    <state width="1579" height="220" key="GridCell.Tab.0.left/0.40.1600.860@0.40.1600.860" timestamp="1633997896893" />
+    <state width="1579" height="220" key="GridCell.Tab.0.right" timestamp="1633997896893">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1633769143719">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
     <state width="776" height="223" key="GridCell.Tab.0.right.inPresentationMode/0.40.1600.860@0.40.1600.860" timestamp="1633769143719" />
-    <state width="1579" height="220" key="GridCell.Tab.0.right/0.40.1600.860@0.40.1600.860" timestamp="1633995525883" />
+    <state width="1579" height="220" key="GridCell.Tab.0.right/0.40.1600.860@0.40.1600.860" timestamp="1633997896893" />
     <state x="301" y="111" key="SettingsEditor" timestamp="1633858161455">
       <screen x="0" y="40" width="1600" height="860" />
     </state>
