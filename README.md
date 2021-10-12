@@ -1,7 +1,9 @@
 # face_recognition
  
  V3: raspberry pi
+
  V2: LBPH with SQL
+ 
  V1: LBPH
 
 ## Contact
